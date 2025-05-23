@@ -47,8 +47,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/abhijeet-kumar-372a22311)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)]([https://instagram.com/abhijeet_314])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/abhijeet-kumar-372a22311/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)]([https://instagram.com/abhijeet_314/])
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:abhijeetkumar954615@gmail.com)
 
 ---
