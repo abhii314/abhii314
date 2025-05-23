@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm Abhijeet! 👋</h1>
+<h1> Hey there, I'm Abhijeet! 👋</h1>
 
-<p align="center"> Pursuing software developer who enjoys building web apps and learning new technologies. Currently exploring Full Stack web development, React, and open source development.</p>
+<p> Pursuing software developer who enjoys building web apps and learning new technologies. Currently exploring Full Stack web development, React, and open source development.</p>
 
 ---
 
@@ -47,8 +47,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/abhijeet-kumar-372a22311/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)]([https://instagram.com/abhijeet_314/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhijeet-kumar-372a22311/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)]([https://www.instagram.com/abhijeet_314/])
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:abhijeetkumar954615@gmail.com)
 
 ---
