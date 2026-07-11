@@ -54,7 +54,7 @@ I enjoy developing end-to-end web applications—from responsive frontend interf
 
 ### 💼 WorkOra
 
-A job portal connecting employers and job seekers with role-based authentication and job management features.
+A full-stack job portal designed to connect employers and job seekers with secure authentication, role-based access, job posting, and application management.
 
 **Tech Stack:** Django • PostgreSQL • Bootstrap
 
@@ -64,9 +64,9 @@ A job portal connecting employers and job seekers with role-based authentication
 
 ### ♻️ RecoverX
 
-A web application focused on sustainable waste management and recycling.
+A cloud-based application deployment platform that enables users to deploy projects directly from GitHub while automating health monitoring, failure detection, and recovery to ensure high availability.
 
-**Tech Stack:** JavaScript
+**Tech Stack:** Django • Next.js • PostgreSQL
 
 🔗 https://github.com/abhii314/recoverx
 
@@ -74,9 +74,9 @@ A web application focused on sustainable waste management and recycling.
 
 ### 🌱 EcoTrace
 
-A Python-based project for environmental monitoring and sustainability tracking.
+A sustainability platform that allows users to purchase digital trees linked to real plantation initiatives, track their growth over time, and visit their trees in person to encourage environmental awareness and transparency.
 
-**Tech Stack:** Python
+**Tech Stack:** Django • Next.js • PostgreSQL
 
 🔗 https://github.com/abhii314/ecotrace
 
@@ -84,10 +84,8 @@ A Python-based project for environmental monitoring and sustainability tracking.
 
 ## 📚 Currently Exploring
 
-- Spring Boot
 - System Design
 - AI & LLM Applications
-- Next.js
 - Data Structures & Algorithms
 
 ---
